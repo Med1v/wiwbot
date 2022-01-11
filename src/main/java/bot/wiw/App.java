@@ -33,7 +33,7 @@ public class App {
 	    	return;
     	}
     	
-    	bot.loginToAlign("yfedorovskyi@gmail.com", "Fox_52218_");
+    	bot.loginToAlign("test@gmail.com", "password");
     	
     	
     	LocalDateTime stopTime = LocalDateTime.now().plusHours(hoursToRun);
